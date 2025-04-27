@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiExternalLink",
+      "🥝",
+      "🧑‍🦲",
+      "LiLink",
+      "🧨"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "AD": "LiFolder",
+  "3. Explotacion": "LiFolder",
+  "2. Escaneo y Enumeración": "LiFolder",
+  "1. Metodología": "LiFolder",
+  "0. Introducción": "LiFolder",
+  "1. Metodología/Information Gatherin": "LiFolder",
+  "AD/Post-Compromise Attacks": "LiFolder",
+  "AD/POST-COMPROMISED AD ENUMERATION": "LiFolder",
+  "AD/IPV6": "LiFolder",
+  "AD/Introducción.md": "1️⃣",
+  "AD/Post-Compromise Attacks/Pass Attacks.md": "🛂",
+  "AD/Post-Compromise Attacks/Dumping and Cracking Hashes.md": "🧨",
+  "AD/Post-Compromise Attacks/LNK File Attacks.md": "LiLink",
+  "AD/Post-Compromise Attacks/Token impersonation.md": "🧑‍🦲",
+  "AD/Post-Compromise Attacks/Mimikatz.md": "🥝",
+  "AD/Post-Compromise Attacks/NTDS.dit dump.md": "LiExternalLink"
+}

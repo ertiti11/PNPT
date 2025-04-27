@@ -1,0 +1,442 @@
+{
+  "main": {
+    "id": "57917f03df17a1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9c01f4999d27e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72a93b01a1f51c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/IPV6/DNS Takeover via mitm6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS Takeover via mitm6"
+            }
+          },
+          {
+            "id": "0b8e3ebd83bb5107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Enumeration with Plumhound"
+            }
+          },
+          {
+            "id": "c048e5793460b548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "1cec34ad540f3373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pass Attacks"
+            }
+          },
+          {
+            "id": "d7e4e597995b362c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pass Attacks"
+            }
+          },
+          {
+            "id": "ba9de03073d606d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Kerberoasting 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerberoasting 1"
+            }
+          },
+          {
+            "id": "b586d1dbe71ef209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Token impersonation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Token impersonation"
+            }
+          },
+          {
+            "id": "fca62697ed8970a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pass Attacks"
+            }
+          },
+          {
+            "id": "217828f4f3b24b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/GPP attacks CPAssword attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GPP attacks CPAssword attacks"
+            }
+          },
+          {
+            "id": "306508ad5374c0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Mimikatz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mimikatz"
+            }
+          },
+          {
+            "id": "5b54d4a5ea2a7780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎯 Estrategia de Ataque Post-Compromiso"
+            }
+          },
+          {
+            "id": "fed064f0b6c22dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/NTDS.dit dump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NTDS.dit dump"
+            }
+          },
+          {
+            "id": "a1d12ec82f1daaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/LLMNR Poisoning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLMNR Poisoning"
+            }
+          },
+          {
+            "id": "366e67cd17105130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Enumeration with ldapdomaindump"
+            }
+          },
+          {
+            "id": "9b11765b8f23634e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Enumeration with Bloodhound"
+            }
+          },
+          {
+            "id": "ee58641042e919e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/SMB Relay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB Relay"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50912b167d7d7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff4262979344308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8893af20c0726f75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da5e7045810f3e0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef76b709c398cf80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a4580469b8f7bde",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ff7fdf03362d09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce778c3370f775a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Explotacion/2. Brute Force Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Brute Force Attacks"
+            }
+          },
+          {
+            "id": "b4b7ddfc4c3a12ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Explotacion/2. Brute Force Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Brute Force Attacks"
+            }
+          },
+          {
+            "id": "3e8d1b9a41e9c4f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f976b0f1008d8b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Explotacion/2. Brute Force Attacks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Brute Force Attacks"
+            }
+          },
+          {
+            "id": "264b22ccdeeb040b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8893af20c0726f75",
+  "lastOpenFiles": [
+    "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+    "AD/Post-Compromise Attacks/NTDS.dit dump.md",
+    "AD/Post-Compromise Attacks/LNK File Attacks.md",
+    "AD/Post-Compromise Attacks/Mimikatz.md",
+    "AD/Post-Compromise Attacks/GPP attacks CPAssword attacks.md",
+    "AD/Post-Compromise Attacks/Pass Attacks.md",
+    "AD/Post-Compromise Attacks/Token impersonation.md",
+    "0. Introducción/External network pentest.md",
+    "AD/Kerberoasting 1.md",
+    "AD/Kerberoasting.md",
+    "AD/Post-Compromise Attacks/Dumping and Cracking Hashes.md",
+    "images/Pasted image 20250427170542.png",
+    "images/Pasted image 20250427163920.png",
+    "images/Pasted image 20250427162616.png",
+    "AD/Introducción.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
+    "AD/Post-Compromise Attacks",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+    "AD/Passback Attacks (impresoras, iot).md",
+    "AD/LLMNR Poisoning.md",
+    "AD/SMB Relay.md",
+    "AD/LAB.md",
+    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
+    "images/Pasted image 20250427161144.png",
+    "images/Pasted image 20250427140236.png",
+    "images/Pasted image 20250427133659.png",
+    "AD/POST-COMPROMISED AD ENUMERATION",
+    "AD/IPV6/DNS Takeover via mitm6.md",
+    "images/Pasted image 20250427131913.png",
+    "images/Pasted image 20250427131711.png",
+    "AD/IPV6 Attacks.md",
+    "AD/IPV6",
+    "images/Pasted image 20250425190148.png",
+    "images/Pasted image 20250425190101.png",
+    "3. Explotacion/2. Brute Force Attacks.md",
+    "AD",
+    "3. Explotacion/1.   Staged vs Non-Staged Payloads.md",
+    "3. Explotacion/0. Revese shells vs Bind shells.md",
+    "3. Explotacion",
+    "2. Escaneo y Enumeración",
+    "1. Metodología/Information Gatherin",
+    "images",
+    "1. Metodología",
+    "0. Introducción"
+  ]
+}
