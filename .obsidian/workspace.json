@@ -4,235 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9c01f4999d27e4",
+        "id": "e703a95ccbbe90cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d72a93b01a1f51c5",
+            "id": "f19e86e0082549e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AD/IPV6/DNS Takeover via mitm6.md",
-                "mode": "source",
-                "source": false
+                "aFile": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+                "bFile": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "DNS Takeover via mitm6"
-            }
-          },
-          {
-            "id": "0b8e3ebd83bb5107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Domain Enumeration with Plumhound"
-            }
-          },
-          {
-            "id": "c048e5793460b548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introducción"
-            }
-          },
-          {
-            "id": "1cec34ad540f3373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pass Attacks"
-            }
-          },
-          {
-            "id": "d7e4e597995b362c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pass Attacks"
-            }
-          },
-          {
-            "id": "ba9de03073d606d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Kerberoasting 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberoasting 1"
-            }
-          },
-          {
-            "id": "b586d1dbe71ef209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/Token impersonation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Token impersonation"
-            }
-          },
-          {
-            "id": "fca62697ed8970a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pass Attacks"
-            }
-          },
-          {
-            "id": "217828f4f3b24b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/GPP attacks CPAssword attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPP attacks CPAssword attacks"
-            }
-          },
-          {
-            "id": "306508ad5374c0cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/Mimikatz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mimikatz"
-            }
-          },
-          {
-            "id": "5b54d4a5ea2a7780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🎯 Estrategia de Ataque Post-Compromiso"
-            }
-          },
-          {
-            "id": "fed064f0b6c22dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Post-Compromise Attacks/NTDS.dit dump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NTDS.dit dump"
-            }
-          },
-          {
-            "id": "a1d12ec82f1daaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/LLMNR Poisoning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLMNR Poisoning"
-            }
-          },
-          {
-            "id": "366e67cd17105130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Domain Enumeration with ldapdomaindump"
-            }
-          },
-          {
-            "id": "9b11765b8f23634e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Domain Enumeration with Bloodhound"
-            }
-          },
-          {
-            "id": "ee58641042e919e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/SMB Relay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMB Relay"
+              "icon": "diff",
+              "title": "Diff: 🎯 Estrategia de Ataque Post-Compromiso"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -390,48 +179,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8893af20c0726f75",
+  "active": "f19e86e0082549e2",
   "lastOpenFiles": [
-    "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+    "0. Introducción/External network pentest.md",
+    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
+    "AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
+    "AD/Passback Attacks (impresoras, iot).md",
+    "AD/SMB Relay.md",
+    "AD/LLMNR Poisoning.md",
+    "AD/LAB.md",
+    "AD/Kerberoasting.md",
+    "AD/Post-Compromise Attacks/Pass Attacks.md",
     "AD/Post-Compromise Attacks/NTDS.dit dump.md",
-    "AD/Post-Compromise Attacks/LNK File Attacks.md",
     "AD/Post-Compromise Attacks/Mimikatz.md",
     "AD/Post-Compromise Attacks/GPP attacks CPAssword attacks.md",
-    "AD/Post-Compromise Attacks/Pass Attacks.md",
-    "AD/Post-Compromise Attacks/Token impersonation.md",
-    "0. Introducción/External network pentest.md",
-    "AD/Kerberoasting 1.md",
-    "AD/Kerberoasting.md",
     "AD/Post-Compromise Attacks/Dumping and Cracking Hashes.md",
+    "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
+    "AD/IPV6/DNS Takeover via mitm6.md",
+    "1. Metodología/5 fases de un pentest.md",
+    "1. Metodología/Information Gatherin/Passive reconnaissance.md",
+    "1. Metodología/Information Gatherin/Information Gathering with Burp Suite.md",
+    "1. Metodología/Information Gatherin/Identifying Website Technologies.md",
+    "1. Metodología/Information Gatherin/Hunting Subdomains.md",
+    "1. Metodología/Information Gatherin/Gathering Breached Credentials.md",
+    "1. Metodología/Information Gatherin/discovering Email addresses.md",
+    "0. Introducción/Wireless pentest.md",
+    "0. Introducción/Web application pentest.md",
     "images/Pasted image 20250427170542.png",
     "images/Pasted image 20250427163920.png",
     "images/Pasted image 20250427162616.png",
-    "AD/Introducción.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
     "AD/Post-Compromise Attacks",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
-    "AD/Passback Attacks (impresoras, iot).md",
-    "AD/LLMNR Poisoning.md",
-    "AD/SMB Relay.md",
-    "AD/LAB.md",
-    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
     "images/Pasted image 20250427161144.png",
     "images/Pasted image 20250427140236.png",
     "images/Pasted image 20250427133659.png",
     "AD/POST-COMPROMISED AD ENUMERATION",
-    "AD/IPV6/DNS Takeover via mitm6.md",
     "images/Pasted image 20250427131913.png",
     "images/Pasted image 20250427131711.png",
-    "AD/IPV6 Attacks.md",
     "AD/IPV6",
     "images/Pasted image 20250425190148.png",
     "images/Pasted image 20250425190101.png",
-    "3. Explotacion/2. Brute Force Attacks.md",
     "AD",
-    "3. Explotacion/1.   Staged vs Non-Staged Payloads.md",
-    "3. Explotacion/0. Revese shells vs Bind shells.md",
     "3. Explotacion",
     "2. Escaneo y Enumeración",
     "1. Metodología/Information Gatherin",
