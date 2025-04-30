@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e703a95ccbbe90cb",
+        "id": "d75d49eab52c726a",
         "type": "tabs",
         "children": [
           {
-            "id": "f19e86e0082549e2",
+            "id": "d4c6b05c663db9cc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
-                "bFile": "AD/Post-Compromise Attacks/🎯 Estrategia de Ataque Post-Compromiso.md",
-                "aRef": ""
+                "file": "WriteUps/Escape.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 🎯 Estrategia de Ataque Post-Compromiso"
+              "icon": "lucide-file",
+              "title": "Escape"
+            }
+          },
+          {
+            "id": "a2bdb1f752939517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Enumeration with ldapdomaindump"
+            }
+          },
+          {
+            "id": "43d869c752e25748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WriteUps/Escape.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escape"
+            }
+          },
+          {
+            "id": "8216d4931b51447a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/ADCS (Active Directory Certificate Services).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADCS (Active Directory Certificate Services)"
+            }
+          },
+          {
+            "id": "26a188b50993a5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Post-Compromise Attacks/Pass Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pass Attacks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "share",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,19 +236,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f19e86e0082549e2",
+  "active": "8216d4931b51447a",
   "lastOpenFiles": [
-    "0. Introducción/External network pentest.md",
-    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+    "WriteUps/Escape.md",
+    "AD/Post-Compromise Attacks/ADCS (Active Directory Certificate Services).md",
+    "images/Pasted image 20250430080150.png",
+    "images/Pasted image 20250430074033.png",
+    "PORTS/389 (LDAP).md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
     "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
     "AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
-    "AD/Passback Attacks (impresoras, iot).md",
+    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+    "AD/Post-Compromise Attacks/Pass Attacks.md",
+    "images/Pasted image 20250428115636.png",
+    "Oneliners.md",
+    "AD/Introducción.md",
+    "PORTS/139, 445 (SMB).md",
+    "images/Pasted image 20250428113052.png",
+    "PORTS",
     "AD/SMB Relay.md",
+    "WriteUps",
+    "0. Introducción/External network pentest.md",
+    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
+    "AD/Passback Attacks (impresoras, iot).md",
     "AD/LLMNR Poisoning.md",
     "AD/LAB.md",
     "AD/Kerberoasting.md",
-    "AD/Post-Compromise Attacks/Pass Attacks.md",
     "AD/Post-Compromise Attacks/NTDS.dit dump.md",
     "AD/Post-Compromise Attacks/Mimikatz.md",
     "AD/Post-Compromise Attacks/GPP attacks CPAssword attacks.md",
@@ -200,13 +270,6 @@
     "AD/IPV6/DNS Takeover via mitm6.md",
     "1. Metodología/5 fases de un pentest.md",
     "1. Metodología/Information Gatherin/Passive reconnaissance.md",
-    "1. Metodología/Information Gatherin/Information Gathering with Burp Suite.md",
-    "1. Metodología/Information Gatherin/Identifying Website Technologies.md",
-    "1. Metodología/Information Gatherin/Hunting Subdomains.md",
-    "1. Metodología/Information Gatherin/Gathering Breached Credentials.md",
-    "1. Metodología/Information Gatherin/discovering Email addresses.md",
-    "0. Introducción/Wireless pentest.md",
-    "0. Introducción/Web application pentest.md",
     "images/Pasted image 20250427170542.png",
     "images/Pasted image 20250427163920.png",
     "images/Pasted image 20250427162616.png",
@@ -215,17 +278,11 @@
     "images/Pasted image 20250427140236.png",
     "images/Pasted image 20250427133659.png",
     "AD/POST-COMPROMISED AD ENUMERATION",
-    "images/Pasted image 20250427131913.png",
-    "images/Pasted image 20250427131711.png",
     "AD/IPV6",
-    "images/Pasted image 20250425190148.png",
-    "images/Pasted image 20250425190101.png",
     "AD",
     "3. Explotacion",
     "2. Escaneo y Enumeración",
     "1. Metodología/Information Gatherin",
-    "images",
-    "1. Metodología",
-    "0. Introducción"
+    "images"
   ]
 }

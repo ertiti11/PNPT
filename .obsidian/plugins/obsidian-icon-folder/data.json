@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEthernetPort",
+      "LiNotebookPen",
       "LiExternalLink",
       "🥝",
-      "🧑‍🦲",
-      "LiLink",
-      "🧨"
+      "🧑‍🦲"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,7 @@
   "AD/Post-Compromise Attacks/LNK File Attacks.md": "LiLink",
   "AD/Post-Compromise Attacks/Token impersonation.md": "🧑‍🦲",
   "AD/Post-Compromise Attacks/Mimikatz.md": "🥝",
-  "AD/Post-Compromise Attacks/NTDS.dit dump.md": "LiExternalLink"
+  "AD/Post-Compromise Attacks/NTDS.dit dump.md": "LiExternalLink",
+  "WriteUps": "LiNotebookPen",
+  "PORTS": "LiEthernetPort"
 }
