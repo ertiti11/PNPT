@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7427261834b68cdd",
+            "id": "4154fb0eee958728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privesc/Windows/0 . Introduccion.md",
+                "file": "WriteUps/Love.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 . Introduccion"
-            }
-          },
-          {
-            "id": "acc31fc1af256b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privesc/Windows/Machines/Artic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artic"
+              "title": "Love"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "certu",
+                "query": "subdomain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,20 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acc31fc1af256b0e",
+  "active": "4154fb0eee958728",
   "lastOpenFiles": [
-    "Privesc/Windows/0 . Introduccion.md",
-    "Privesc/Windows/Machines/Artic.md",
-    "Privesc/Windows/Machines",
+    "WriteUps/Bastard.md",
+    "images/Pasted image 20250604130228.png",
+    "Oneliners.md",
+    "images/Pasted image 20250604123713.png",
+    "TCM-ACADEMY",
+    "TCM-ACADEMY/Privesc/Windows/Machines/Artic.md",
+    "images/Pasted image 20250604123502.png",
+    "images/Pasted image 20250604094916.png",
+    "images/Pasted image 20250604094831.png",
+    "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
+    "TCM-ACADEMY/Privesc/Windows/Machines",
     "images/Pasted image 20250526080616.png",
-    "Privesc/Windows",
-    "Privesc",
-    "AD/Golden Ticket.md",
+    "TCM-ACADEMY/Privesc/Windows",
+    "TCM-ACADEMY/Privesc",
+    "TCM-ACADEMY/AD/Golden Ticket.md",
     "images/Pasted image 20250604091138.png",
     "images/Pasted image 20250604091131.png",
     "WriteUps/Goodgames.md",
     "~$Planning de Estudio OSCP.tmp",
-    "Oneliners.md",
     "WriteUps/Servmon.md",
     "WriteUps/Escape.md",
     "WriteUps/Return.md",
@@ -215,32 +207,24 @@
     "images/Pasted image 20250526074606.png",
     "images/Pasted image 20250526073537.png",
     "conflict-files-obsidian-git.md",
-    "images/Pasted image 20250504203449.png",
-    "images/Pasted image 20250504211002.png",
-    "images/Pasted image 20250504204926.png",
-    "images/Pasted image 20250504204900.png",
-    "images/Pasted image 20250504204551.png",
     "PORTS/139, 445 (SMB).md",
-    "AD/Post-Compromise Attacks/ADCS (Active Directory Certificate Services).md",
+    "TCM-ACADEMY/AD/Post-Compromise Attacks/ADCS (Active Directory Certificate Services).md",
     "PORTS/389 (LDAP).md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
-    "AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
-    "AD/Post-Compromise Attacks/Pass Attacks.md",
-    "AD/Introducción.md",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/🏰Domain Enumeration with PingCastle.md",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with ldapdomaindump.md",
+    "TCM-ACADEMY/AD/Post-Compromise Attacks/Pass Attacks.md",
+    "TCM-ACADEMY/AD/Introducción.md",
     "PORTS",
-    "AD/SMB Relay.md",
+    "TCM-ACADEMY/AD/SMB Relay.md",
     "WriteUps",
-    "0. Introducción/External network pentest.md",
-    "AD/🧠 Estrategia Inicial de Ataque Interno.md",
-    "AD/Passback Attacks (impresoras, iot).md",
-    "AD/LLMNR Poisoning.md",
-    "AD/LAB.md",
-    "AD/Kerberoasting.md",
-    "AD/Post-Compromise Attacks",
-    "AD/POST-COMPROMISED AD ENUMERATION",
-    "AD/IPV6",
-    "AD"
+    "TCM-ACADEMY/0. Introducción/External network pentest.md",
+    "TCM-ACADEMY/AD/🧠 Estrategia Inicial de Ataque Interno.md",
+    "TCM-ACADEMY/AD/Passback Attacks (impresoras, iot).md",
+    "TCM-ACADEMY/AD/LLMNR Poisoning.md",
+    "TCM-ACADEMY/AD/Post-Compromise Attacks",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION",
+    "TCM-ACADEMY/AD/IPV6"
   ]
 }
