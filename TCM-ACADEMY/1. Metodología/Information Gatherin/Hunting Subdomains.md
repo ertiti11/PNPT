@@ -1,6 +1,16 @@
 
 
+## Gobuster
 
+```bash
+gobuster vhost -u http://planning.htb -w /usr/share/wordlists/seclists/Discovery/DNS/combined_subdomains.txt --append-domain -t 50
+```
+
+## wfuzz
+
+```bash
+wfuzz -w subdomains-top1million-5000.txt -u 'http://domain.htb' -H "Host: FUZZ.domain.htb" --hc=302
+```
 ## Sublist3r
 
 

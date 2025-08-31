@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WriteUps/CodeTwo.md",
+                "file": "Oneliners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CodeTwo"
+              "title": "Oneliners"
             }
           }
         ],
@@ -157,27 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Explotacion/2. Brute Force Attacks.md",
+                "file": "Oneliners.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Brute Force Attacks"
-            }
-          },
-          {
-            "id": "264b22ccdeeb040b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Oneliners"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,52 +181,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fabf46a89d48600a",
+  "active": "8893af20c0726f75",
   "lastOpenFiles": [
-    "images/Pasted image 20250827103504.png",
+    "WriteUps/Planning.md",
+    "images/Pasted image 20250831200637.png",
+    "Oneliners.md",
+    "Untitled.md",
+    "images/Pasted image 20250831200604.png",
+    "images/Pasted image 20250831200308.png",
+    "Pasted image 20250831200248.png",
+    "Pasted image 20250831200232.png",
+    "WriteUps/Bastard.md",
+    "metodology.md",
+    "TCM-ACADEMY/1. Metodología/Information Gatherin/Hunting Subdomains.md",
+    "TCM-ACADEMY/3. Explotacion/2. Brute Force Attacks.md",
+    "TCM-ACADEMY/3. Explotacion/1.   Staged vs Non-Staged Payloads.md",
+    "TCM-ACADEMY/3. Explotacion/0. Revese shells vs Bind shells.md",
+    "TCM-ACADEMY/2. Escaneo y Enumeración/NMAP.md",
+    "TCM-ACADEMY/1. Metodología/5 fases de un pentest.md",
+    "TCM-ACADEMY/1. Metodología/Information Gatherin/Gathering Breached Credentials.md",
+    "TCM-ACADEMY/1. Metodología/Information Gatherin/Identifying Website Technologies.md",
+    "TCM-ACADEMY/1. Metodología/Information Gatherin/Information Gathering with Burp Suite.md",
+    "TCM-ACADEMY/1. Metodología/Information Gatherin/Passive reconnaissance.md",
     "WriteUps/CodeTwo.md",
+    "images/Pasted image 20250827103504.png",
     "images/Pasted image 20250827103145.png",
     "images/Pasted image 20250827102932.png",
     "images/Pasted image 20250827101950.png",
     "images/Pasted image 20250827101834.png",
-    "images/Pasted image 20250827101734.png",
-    "images/Pasted image 20250827101658.png",
-    "images/Pasted image 20250827101628.png",
     "TCM-ACADEMY/AD/Post-Compromise Attacks/NTDS.dit dump.md",
     "TCM-ACADEMY/AD/LLMNR Poisoning.md",
     "TCM-ACADEMY/AD/LAB.md",
     "TCM-ACADEMY/AD/Kerberoasting 1.md",
     "TCM-ACADEMY/AD/Kerberoasting.md",
     "TCM-ACADEMY/AD/Introducción.md",
-    "metodology.md",
-    "images/Pasted image 20250827094013.png",
-    "images/Pasted image 20250827084300.png",
-    "WriteUps/Bastard.md",
     "EXAM.md",
     "WriteUps/Return.md",
     "WriteUps/Servmon.md",
-    "TCM-ACADEMY/Privesc/Windows/Machines/Artic.md",
-    "WriteUps/Love.md",
-    "Oneliners.md",
     "TCM-ACADEMY",
-    "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
     "TCM-ACADEMY/Privesc/Windows/Machines",
     "TCM-ACADEMY/Privesc/Windows",
     "TCM-ACADEMY/Privesc",
-    "TCM-ACADEMY/AD/Golden Ticket.md",
-    "WriteUps/Goodgames.md",
     "~$Planning de Estudio OSCP.tmp",
-    "WriteUps/Escape.md",
-    "conflict-files-obsidian-git.md",
-    "PORTS/139, 445 (SMB).md",
-    "TCM-ACADEMY/AD/Post-Compromise Attacks/ADCS (Active Directory Certificate Services).md",
-    "PORTS/389 (LDAP).md",
-    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Plumhound.md",
-    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
     "PORTS",
     "WriteUps",
     "TCM-ACADEMY/AD/Post-Compromise Attacks",
