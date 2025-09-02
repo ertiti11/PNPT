@@ -144,3 +144,14 @@ int main() {
 ```bash
 gcc poc.c
 ```
+
+
+
+
+
+
+## incursore
+
+```bash
+incursore -H 10.10.10.100 -t All
+```
