@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ataques AD.md",
+                "file": "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ataques AD"
+              "title": "0 . Introduccion"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smbclient",
+                "query": "sched",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ataques AD.md",
+                "file": "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ataques AD"
+              "title": "Outline of 0 . Introduccion"
             }
           }
         ],
@@ -242,14 +243,21 @@
   },
   "active": "192c60de2904b342",
   "lastOpenFiles": [
-    "AD-Notes/📖 Términos.md",
-    "Ataques AD.md",
+    "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
     "AD-Notes/00_Recon/0. Recon Metodology.md",
+    "AD-Notes/02_Creds/PasswordSpray.md",
+    "WriteUps/Servmon.md",
+    "AD-Notes/02_Creds/Cracking.md",
+    "AD-Notes/02_Creds/ASREP.md",
+    "AD-Notes/01_AD_Enumeration/BloodHound.md",
+    "AD-Notes/01_AD_Enumeration/ADCS.md",
+    "Ataques AD.md",
+    "EXAM.md",
+    "~$Lainkusanagi OSCP Like (1).xlsx",
+    "AD-Notes/📖 Términos.md",
     "AD-Notes/01_AD_Enumeration/Users_Groups.md",
     "AD-Notes/01_AD_Enumeration/SPNs.md",
     "AD-Notes/01_AD_Enumeration/Policies.md",
-    "AD-Notes/01_AD_Enumeration/ADCS.md",
-    "AD-Notes/01_AD_Enumeration/BloodHound.md",
     "AD-Notes/00_Recon/Web.md",
     "AD-Notes/00_Recon/SMB.md",
     "AD-Notes/00_Recon/RPC.md",
@@ -262,13 +270,6 @@
     "AD-Notes/03_Privesc/Services.md",
     "AD-Notes/03_Privesc/Misconfigs.md",
     "AD-Notes/03_Privesc/GPP.md",
-    "AD-Notes/03_Privesc/Delegation.md",
-    "AD-Notes/03_Privesc/ACLs.md",
-    "AD-Notes/02_Creds/PasswordSpray.md",
-    "AD-Notes/02_Creds/PtH_PtT_Overpass.md",
-    "AD-Notes/02_Creds/Kerberoast.md",
-    "AD-Notes/02_Creds/DCSync.md",
-    "~$Lainkusanagi OSCP Like (1).xlsx",
     "AD-Notes/Cheatsheets",
     "AD-Notes/06_LateralMovement",
     "AD-Notes/05_DomainDominance",
