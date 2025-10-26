@@ -243,6 +243,7 @@
   },
   "active": "192c60de2904b342",
   "lastOpenFiles": [
+    "06D17400",
     "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
     "AD-Notes/00_Recon/0. Recon Metodology.md",
     "AD-Notes/02_Creds/PasswordSpray.md",
@@ -269,7 +270,6 @@
     "AD-Notes/04_Persistence/AdminSDHolder.md",
     "AD-Notes/03_Privesc/Services.md",
     "AD-Notes/03_Privesc/Misconfigs.md",
-    "AD-Notes/03_Privesc/GPP.md",
     "AD-Notes/Cheatsheets",
     "AD-Notes/06_LateralMovement",
     "AD-Notes/05_DomainDominance",
