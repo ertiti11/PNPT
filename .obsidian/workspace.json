@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD-Notes/02_Creds/DCSync.md",
+                "file": "WriteUps/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DCSync"
+              "title": "Planning"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sched",
+                "query": "wfuzz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
+                "file": "WriteUps/Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 . Introduccion"
+              "title": "Outline of Planning"
             }
           }
         ],
@@ -241,35 +241,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "192c60de2904b342",
+  "active": "da5e7045810f3e0b",
   "lastOpenFiles": [
+    "Ataques AD.md",
+    "AD-Notes/Cheatsheets/certipy.md",
+    "Oneliners.md",
+    "PORTS/139, 445 (SMB).md",
+    "AD-Notes/00_Recon/0. Recon Metodology.md",
+    "AD-Notes/00_Recon/RPC.md",
+    "WriteUps/CodeTwo.md",
+    "~$Lainkusanagi OSCP Like (1).xlsx",
+    "WriteUps/Active.md",
+    "Red Team Ops/TTPs.md",
+    "AD-Notes/02_Creds/DCSync.md",
+    "TCM-ACADEMY/Privesc/Windows/0 . Introduccion.md",
     "06D17400",
     "TCM-ACADEMY/AD/POST-COMPROMISED AD ENUMERATION/Domain Enumeration with Bloodhound.md",
-    "AD-Notes/00_Recon/0. Recon Metodology.md",
     "AD-Notes/02_Creds/PasswordSpray.md",
     "WriteUps/Servmon.md",
     "AD-Notes/02_Creds/Cracking.md",
     "AD-Notes/02_Creds/ASREP.md",
     "AD-Notes/01_AD_Enumeration/BloodHound.md",
     "AD-Notes/01_AD_Enumeration/ADCS.md",
-    "Ataques AD.md",
     "EXAM.md",
-    "~$Lainkusanagi OSCP Like (1).xlsx",
     "AD-Notes/📖 Términos.md",
     "AD-Notes/01_AD_Enumeration/Users_Groups.md",
     "AD-Notes/01_AD_Enumeration/SPNs.md",
     "AD-Notes/01_AD_Enumeration/Policies.md",
     "AD-Notes/00_Recon/Web.md",
     "AD-Notes/00_Recon/SMB.md",
-    "AD-Notes/00_Recon/RPC.md",
     "AD-Notes/00_Recon/LDAP.md",
-    "AD-Notes/04_Persistence/SilverTicket.md",
-    "AD-Notes/04_Persistence/SIDHistory.md",
-    "AD-Notes/04_Persistence/ShadowCreds.md",
-    "AD-Notes/04_Persistence/GoldenTicket.md",
-    "AD-Notes/04_Persistence/AdminSDHolder.md",
-    "AD-Notes/03_Privesc/Services.md",
-    "AD-Notes/03_Privesc/Misconfigs.md",
     "AD-Notes/Cheatsheets",
     "AD-Notes/06_LateralMovement",
     "AD-Notes/05_DomainDominance",
@@ -278,7 +279,6 @@
     "AD-Notes/02_Creds",
     "AD-Notes/01_AD_Enumeration",
     "AD-Notes/00_Recon",
-    "AD-Notes",
     "images/Pasted image 20250831200637.png",
     "images/Pasted image 20250831200604.png",
     "images/Pasted image 20250831200308.png",

@@ -155,3 +155,11 @@ gcc poc.c
 ```bash
 incursore -H 10.10.10.100 -t All
 ```
+
+
+
+## Crack zip
+
+```bash
+	fcrackzip -v -u -D -p /usr/share/wordlists/rockyou.txt file.zip
+```
